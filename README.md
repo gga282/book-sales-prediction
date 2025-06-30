@@ -4,7 +4,7 @@
 Predict book sales using market features to help publishers make data-driven decisions.
 
 ## Key Results
-- **R² Score: 0.85+** - Strong predictive performance
+- **R² Score: 0.62+** - predictive performance
 - **Top Predictors**: Reading list engagement, reviews, favorites
 - **Business Impact**: Identified that engagement metrics > price for sales
 
